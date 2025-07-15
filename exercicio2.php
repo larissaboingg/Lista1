@@ -7,9 +7,9 @@
 <body>
 
    <form method="POST" action="">
-        <label for="numero_par_impar">Calcula tabuada:</label>
+        <label for="numero_tabuada">Calcula tabuada:</label>
         <input type="number" id="numero_tabuada" name="numero_tabuada" required>
-        <button type="submit" name="iniciar tabuada">Iniciar</button>
+        <button type="submit" name="iniciar_tabuada">Iniciar</button>
    </form>
 
    <?php
